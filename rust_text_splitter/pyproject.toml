@@ -4,6 +4,12 @@ build-backend = "maturin"
 
 [project]
 name = "rust_text_splitter"
+description = "High-performance text splitter for Markdown and AST (Python) implementation in Rust."
+keywords = ["text-splitter", "rust", "python", "ast", "markdown"]
+authors = [
+    { name = "Poseidoncode", email = "posidomhu@gmail.com" },
+]
+readme = "../README.md"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Rust",

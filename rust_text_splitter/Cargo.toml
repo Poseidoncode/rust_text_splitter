@@ -2,6 +2,11 @@
 name = "rust_text_splitter"
 version = "0.1.0"
 edition = "2024"
+description = "High-performance text splitter for Markdown and AST (Python) implementation in Rust."
+license = "Apache-2.0"
+repository = "https://github.com/Poseidoncode/rust_text_splitter"
+readme = "../README.md"
+authors = ["Poseidoncode <posidomhu@gmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
